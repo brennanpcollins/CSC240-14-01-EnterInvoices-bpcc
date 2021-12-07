@@ -11,7 +11,7 @@ using System.IO;
 
 namespace CSC240_14_01_EnterInvoices_bpcc
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form 
     {
         const string DELIM = ",";
         const string FILENAME =
